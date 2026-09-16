@@ -1,8 +1,8 @@
 ### Consulta de productos
-GET http://api.sistemasexto/productos
+GET http://api.sistemadeaprendizaje/productos
 
 ### Modificar Productos
-PUT http://api.sistemasexto/productos/1
+PUT http://api.sistemadeaprendizaje/productos/1
 Content-Type: application/json
 
 {

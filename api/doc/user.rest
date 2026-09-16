@@ -1,2 +1,2 @@
 ### Consulta de usuario
-GET http://api.sistemasexto/users
+GET http://api.sistemadeaprendizaje/users
